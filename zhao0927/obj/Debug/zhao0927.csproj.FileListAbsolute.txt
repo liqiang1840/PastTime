@@ -1,0 +1,8 @@
+D:\Practice\zhao0927\zhao0927\bin\zhao0927.dll.config
+D:\Practice\zhao0927\zhao0927\bin\zhao0927.dll
+D:\Practice\zhao0927\zhao0927\bin\zhao0927.pdb
+D:\Practice\zhao0927\zhao0927\obj\Debug\zhao0927.dll
+D:\Practice\zhao0927\zhao0927\obj\Debug\zhao0927.pdb
+D:\Practice\zhao0927\zhao0927\obj\Debug\zhao0927.csprojResolveAssemblyReference.cache
+D:\Practice\zhao0927\zhao0927\bin\Zhao.Domain.dll
+D:\Practice\zhao0927\zhao0927\bin\Zhao.Domain.pdb
