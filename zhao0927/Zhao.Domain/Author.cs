@@ -10,6 +10,6 @@ namespace Zhao.Domain
         public int AuthorId { get; set; }
         public string AuthorName { get; set; }
 
-        public List<int> Authority { get; set; }
+       // public List<int> Authority { get; set; } EF里面怎么映射
     }
 }

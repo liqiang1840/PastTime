@@ -12,7 +12,7 @@ namespace Zhao.Domain
             get; set;
         }
 
-        public Catalog Catalog
+        public virtual Catalog Catalog
         {
             get;
             set;
@@ -33,7 +33,7 @@ namespace Zhao.Domain
             get; set;
         }
 
-        public Author Operater
+        public virtual ICollection<Author> Operaters
         {
             get; set;
         }

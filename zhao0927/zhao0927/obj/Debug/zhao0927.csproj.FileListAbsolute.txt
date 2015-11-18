@@ -6,3 +6,10 @@ D:\Practice\zhao0927\zhao0927\obj\Debug\zhao0927.pdb
 D:\Practice\zhao0927\zhao0927\obj\Debug\zhao0927.csprojResolveAssemblyReference.cache
 D:\Practice\zhao0927\zhao0927\bin\Zhao.Domain.dll
 D:\Practice\zhao0927\zhao0927\bin\Zhao.Domain.pdb
+E:\Github\PastTime\zhao0927\zhao0927\bin\zhao0927.dll
+E:\Github\PastTime\zhao0927\zhao0927\bin\zhao0927.pdb
+E:\Github\PastTime\zhao0927\zhao0927\bin\Zhao.Domain.dll
+E:\Github\PastTime\zhao0927\zhao0927\bin\Zhao.Domain.pdb
+E:\Github\PastTime\zhao0927\zhao0927\obj\Debug\zhao0927.csprojResolveAssemblyReference.cache
+E:\Github\PastTime\zhao0927\zhao0927\obj\Debug\zhao0927.dll
+E:\Github\PastTime\zhao0927\zhao0927\obj\Debug\zhao0927.pdb

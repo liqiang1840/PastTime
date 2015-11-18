@@ -2,3 +2,8 @@ D:\Practice\zhao0927\Zhao.Domain\bin\Debug\Zhao.Domain.dll
 D:\Practice\zhao0927\Zhao.Domain\bin\Debug\Zhao.Domain.pdb
 D:\Practice\zhao0927\Zhao.Domain\obj\Debug\Zhao.Domain.dll
 D:\Practice\zhao0927\Zhao.Domain\obj\Debug\Zhao.Domain.pdb
+E:\Github\PastTime\zhao0927\Zhao.Domain\bin\Debug\Zhao.Domain.dll
+E:\Github\PastTime\zhao0927\Zhao.Domain\bin\Debug\Zhao.Domain.pdb
+E:\Github\PastTime\zhao0927\Zhao.Domain\obj\Debug\Zhao.Domain.dll
+E:\Github\PastTime\zhao0927\Zhao.Domain\obj\Debug\Zhao.Domain.pdb
+E:\Github\PastTime\zhao0927\Zhao.Domain\obj\Debug\Zhao.Domain.csprojResolveAssemblyReference.cache
