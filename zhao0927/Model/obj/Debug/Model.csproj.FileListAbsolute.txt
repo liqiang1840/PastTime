@@ -1,0 +1,5 @@
+E:\Github\3layernews\src\Model\bin\Debug\Model.dll
+E:\Github\3layernews\src\Model\bin\Debug\Model.pdb
+E:\Github\3layernews\src\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Github\3layernews\src\Model\obj\Debug\Model.dll
+E:\Github\3layernews\src\Model\obj\Debug\Model.pdb

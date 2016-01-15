@@ -1,0 +1,7 @@
+E:\Github\3layernews\src\SQLServerDAL\bin\Release\SQLServerDAL.dll
+E:\Github\3layernews\src\SQLServerDAL\bin\Release\SQLServerDAL.pdb
+E:\Github\3layernews\src\SQLServerDAL\bin\Release\Model.dll
+E:\Github\3layernews\src\SQLServerDAL\bin\Release\Model.pdb
+E:\Github\3layernews\src\SQLServerDAL\obj\Release\SQLServerDAL.csprojResolveAssemblyReference.cache
+E:\Github\3layernews\src\SQLServerDAL\obj\Release\SQLServerDAL.dll
+E:\Github\3layernews\src\SQLServerDAL\obj\Release\SQLServerDAL.pdb

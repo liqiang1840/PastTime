@@ -1,0 +1,9 @@
+E:\Github\3layernews\src\BLL\bin\Release\BLL.dll
+E:\Github\3layernews\src\BLL\bin\Release\BLL.pdb
+E:\Github\3layernews\src\BLL\bin\Release\Model.dll
+E:\Github\3layernews\src\BLL\bin\Release\SQLServerDAL.dll
+E:\Github\3layernews\src\BLL\bin\Release\Model.pdb
+E:\Github\3layernews\src\BLL\bin\Release\SQLServerDAL.pdb
+E:\Github\3layernews\src\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\Github\3layernews\src\BLL\obj\Release\BLL.dll
+E:\Github\3layernews\src\BLL\obj\Release\BLL.pdb

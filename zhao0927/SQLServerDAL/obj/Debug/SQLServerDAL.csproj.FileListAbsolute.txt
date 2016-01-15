@@ -1,0 +1,7 @@
+E:\Github\3layernews\src\SQLServerDAL\bin\Debug\SQLServerDAL.dll
+E:\Github\3layernews\src\SQLServerDAL\bin\Debug\SQLServerDAL.pdb
+E:\Github\3layernews\src\SQLServerDAL\bin\Debug\Model.dll
+E:\Github\3layernews\src\SQLServerDAL\bin\Debug\Model.pdb
+E:\Github\3layernews\src\SQLServerDAL\obj\Debug\SQLServerDAL.csprojResolveAssemblyReference.cache
+E:\Github\3layernews\src\SQLServerDAL\obj\Debug\SQLServerDAL.dll
+E:\Github\3layernews\src\SQLServerDAL\obj\Debug\SQLServerDAL.pdb

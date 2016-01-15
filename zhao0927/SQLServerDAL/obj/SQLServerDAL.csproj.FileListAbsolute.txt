@@ -1,0 +1,14 @@
+E:\downCode\Backup\SQLServerDAL\bin\Debug\SQLServerDAL.dll
+E:\downCode\Backup\SQLServerDAL\bin\Debug\SQLServerDAL.pdb
+E:\downCode\Backup\SQLServerDAL\bin\Debug\Model.dll
+E:\downCode\Backup\SQLServerDAL\bin\Debug\Model.pdb
+E:\downCode\Backup\SQLServerDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\downCode\Backup\SQLServerDAL\obj\Debug\SQLServerDAL.dll
+E:\downCode\Backup\SQLServerDAL\obj\Debug\SQLServerDAL.pdb
+E:\项目\wwb调试\问题回答\3layernews\SQLServerDAL\bin\Debug\SQLServerDAL.dll
+E:\项目\wwb调试\问题回答\3layernews\SQLServerDAL\bin\Debug\SQLServerDAL.pdb
+E:\项目\wwb调试\问题回答\3layernews\SQLServerDAL\bin\Debug\Model.dll
+E:\项目\wwb调试\问题回答\3layernews\SQLServerDAL\bin\Debug\Model.pdb
+E:\项目\wwb调试\问题回答\3layernews\SQLServerDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\wwb调试\问题回答\3layernews\SQLServerDAL\obj\Debug\SQLServerDAL.dll
+E:\项目\wwb调试\问题回答\3layernews\SQLServerDAL\obj\Debug\SQLServerDAL.pdb
